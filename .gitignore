@@ -197,3 +197,5 @@ project.lock.json
 .fable
 .ionide
 main.js
+
+.ssh/
